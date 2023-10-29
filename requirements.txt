@@ -1,0 +1,6 @@
+Seaborn
+Matplotlib
+numpy
+Pandas
+catboost
+-e .
