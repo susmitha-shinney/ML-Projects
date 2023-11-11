@@ -3,4 +3,7 @@ Matplotlib
 numpy
 Pandas
 catboost
+scikit-learn
+xgboost
+dill
 -e .
